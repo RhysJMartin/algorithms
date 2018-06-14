@@ -10,3 +10,5 @@ run ex1_karatsuba.py
 run ex2_inversions.py
 
 ## Programming Assignment 3 - Quick Sort
+
+run ex3_quick_sort.py
