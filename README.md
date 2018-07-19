@@ -33,3 +33,20 @@ run ex3_quick_sort.py
 ## Programming Assignment 4 - Karger Min Cut
 
 run ex4_random_contraction.py
+
+# Graph search
+
+run graph_search_iterative.py
+
+Note: due to large file size SCC.txt is not committed to
+git hub this file can be gained from the programming assignment instructions on coursera
+
+Breadth first search (BFS) - queue
+Depth first search (DFS) - stack
+Strongly connected component (SCC)
+
+Topological ordering use DFS
+
+Directed, acyclic - no cycles
+
+Sink vertex - no outgoing arc
