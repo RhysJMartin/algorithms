@@ -34,7 +34,7 @@ run ex3_quick_sort.py
 
 run ex4_random_contraction.py
 
-# Graph search
+## Programming Assignment 2-1 Graph search
 
 run graph_search_iterative.py
 
@@ -50,3 +50,7 @@ Topological ordering use DFS
 Directed, acyclic - no cycles
 
 Sink vertex - no outgoing arc
+
+## Programming Assignment 2-2 shortest path using Dijkstras algorithm and heap implementation
+
+run dijkstra.py
