@@ -54,3 +54,7 @@ Sink vertex - no outgoing arc
 ## Programming Assignment 2-2 shortest path using Dijkstras algorithm and heap implementation
 
 run dijkstra.py
+
+## Programming Assignment 2-3 Maintaining Medians using heaps
+
+run maintaining_medians.py
