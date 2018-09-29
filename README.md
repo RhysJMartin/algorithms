@@ -20,23 +20,23 @@ E[A * B] = E[A] * E[B]
 Sample space anything that can happen
 ## Programming Assignment 1 - Karatsuba Integer Multiplication
 
-run ex1_karatsuba.py
+    python algorithms/ex1_karatsuba.py
 
 ## Programming Assignment 2 - Find Inversions
 
-run ex2_inversions.py
+    python algorithms/ex2_inversions.py
 
 ## Programming Assignment 3 - Quick Sort
 
-run ex3_quick_sort.py
+    python algorithms/ex3_quick_sort.py
 
 ## Programming Assignment 4 - Karger Min Cut
 
-run ex4_random_contraction.py
+    python algorithms/ex4_random_contraction.py
 
 ## Programming Assignment 2-1 Graph search
 
-run graph_search_iterative.py
+    python algorithms/graph_search_iterative.py
 
 Note: due to large file size SCC.txt is not committed to
 git hub this file can be gained from the programming assignment instructions on coursera
@@ -53,8 +53,12 @@ Sink vertex - no outgoing arc
 
 ## Programming Assignment 2-2 shortest path using Dijkstras algorithm and heap implementation
 
-run dijkstra.py
+    python algorithms/dijkstra.py
 
 ## Programming Assignment 2-3 Maintaining Medians using heaps
 
 run maintaining_medians.py
+
+## Programming Assignment 2-4 2 Sum
+
+    python algorithms/find_sums.py
